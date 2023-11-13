@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">An Information Systems student from Brazil</h3>
+<h3 align="center">An Information Systems student in Federal University of Lavras 🇧🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrafo&label=Profile%20views&color=0e75b6&style=flat" alt="gabrafo" /> </p>
 
