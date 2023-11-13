@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">An Information Systems student in Federal University of Lavras 🇧🇷</h3>
+<h3 align="center">An Information Systems student in Federal University of Lavras (🇧🇷)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
