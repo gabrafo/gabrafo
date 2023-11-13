@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">An Information Systems student in Federal University of Lavras 🇧🇷</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrafo&label=Profile%20views&color=0e75b6&style=flat" alt="gabrafo" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel-fagundes-a54a82251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-fagundes-a54a82251" height="30" width="40" /></a>
