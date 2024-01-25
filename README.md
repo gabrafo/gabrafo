@@ -1,4 +1,4 @@
-<h2 align="center"><i>Welcome to my Realm! 🏰</i></h2>
+<h2 align="center"><i>Welcome to my Realm!</i> 🏰</h2>
 <p align="center">Hey there! I'm Gabriel, exploring the wonders of Information Systems at the Federal University of Lavras.</p>
 
 ###
