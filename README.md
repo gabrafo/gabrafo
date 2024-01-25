@@ -3,11 +3,6 @@
 <p align="center">Hey there! I'm Gabriel, exploring the wonders of Information Systems in Brazil.</p>
 
 ###
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/dd/fe/f6/ddfef6fdb94240cb389b38e6a9a00983.gif" />
-</div>
-
-###
 <h1> </h1>
 <h2 align="center">Embarking on the Journey of Knowledge</h2>
 
@@ -21,12 +16,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
   <img width="12" />
   <img src="https://img.icons8.com/color/452/linux.png" height="30" alt="linux logo" />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://4.bp.blogspot.com/--2xWEj2kO7Q/WJQeyx5JwsI/AAAAAAAABPE/14K4ImdXcDcK5GSZLeujhKK53YTFNIIjwCLcB/s1600/3dc941e714fee4a9cdad76bd4b0f98d5.gif" />
 </div>
 
 ###
