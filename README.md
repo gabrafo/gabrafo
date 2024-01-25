@@ -20,8 +20,6 @@
 <h1> </h1>
 <pre align="center">SKILLS</pre>
 
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo" />
   <img width="12" />
