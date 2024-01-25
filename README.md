@@ -4,7 +4,6 @@
 ###
 <h1> </h1>
 <pre align="center">LEARNING</pre>
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
