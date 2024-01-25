@@ -1,8 +1,10 @@
-# Greetings from Gabriel's Universe! 👋
+<h2 align="center">Greetings from Gabriel's Realm! 🌙</h2>
+<p align="center">Hey there! I'm Gabriel, exploring the wonders of Information Systems at the Federal University of Lavras.</p>
 
-Hey there! I'm Gabriel, exploring the wonders of Information Systems at the Federal University of Lavras.
-
-## Embarking on the Journey of Knowledge 🚀
+###
+<h1> </h1>
+<pre align="center">LEARNING</pre>
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
@@ -14,7 +16,12 @@ Hey there! I'm Gabriel, exploring the wonders of Information Systems at the Fede
   <img src="https://img.icons8.com/color/452/linux.png" height="30" alt="linux logo" />
 </div>
 
-## Mastering the Craft 🛠️
+###
+
+<h1> </h1>
+<pre align="center">SKILLS</pre>
+
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo" />
@@ -24,8 +31,8 @@ Hey there! I'm Gabriel, exploring the wonders of Information Systems at the Fede
   <img src="https://img.icons8.com/color/452/linux.png" height="30" alt="linux logo" />
 </div>
 
-## GitHub Stats 📊
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrafo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrafo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages cryptic graph" />
 </div>
