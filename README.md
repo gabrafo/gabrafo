@@ -10,6 +10,8 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="30" alt="spring logo" />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/springio/python-icon.svg" height="30" alt="python logo" />
+  <img width="12" />
 
 ###
 
