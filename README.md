@@ -20,6 +20,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
   <img width="12" />
   <img src="https://img.icons8.com/color/452/linux.png" height="30" alt="linux logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="30" alt="spring logo" />
