@@ -6,10 +6,6 @@
 <pre align="center">LEARNING</pre>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="30" alt="spring logo" />
-  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="30" alt="python logo" />
   <img width="12" />
 
@@ -24,6 +20,10 @@
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
   <img width="12" />
   <img src="https://img.icons8.com/color/452/linux.png" height="30" alt="linux logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="30" alt="spring logo" />
+  <img width="12" />
 </div>
 
 ###
