@@ -1,5 +1,5 @@
 <h2 align="center"><b>Welcome!</b></h2>
-<p align="center">Hey there! I'm Gabriel, exploring the wonders of Information Systems at the Federal University of Lavras.</p>
+<p align="center">Hey there! I'm Gabriel, trying my best to become a great tech professional!</p>
 
 ###
 <h1> </h1>
