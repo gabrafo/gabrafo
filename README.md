@@ -8,6 +8,12 @@
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="30" alt="python logo" />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="30" alt="spring logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="30" alt="rabbitmq logo" />
+  <img width="12" />
 
 ###
 
@@ -18,8 +24,6 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="30" alt="spring logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
   <img width="12" />
