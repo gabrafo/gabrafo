@@ -12,8 +12,10 @@
       <br>
       langs:<br>
           > java, c/c++, kotlin, python, javascript, sql.
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrafo&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=transparent&hide_border=true" height="130" alt="languages cryptic graph" />
       <br>
+      <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrafo&locale=en&hide_title=true&layout=compact&card_width=300&langs_count=5&theme=transparent&hide_border=true" height="130" alt="languages cryptic graph" />
+      </div>
       <br>
       tools:<br>
           - <a href="https://obsidian.md/" target="_blank">obsidian</a> - notes taking<br> 
