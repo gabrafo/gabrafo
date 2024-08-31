@@ -22,7 +22,7 @@
           - <a href="https://learn.microsoft.com/en-us/windows/wsl/about" target="_blank">wsl2</a> - linux integration in windows<br>
      <br>
      <br>
-     currently reading:<br>
+      currently reading:<br>
         - grokking algorithms: an illustrated guide for programmers and other curious people<br>
         - test driven development: by example
     </samp>
