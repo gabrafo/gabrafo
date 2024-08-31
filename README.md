@@ -13,7 +13,10 @@
       langs:<br>
           > java, c/c++, kotlin, python, javascript, sql.
       <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrafo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true" height="150" alt="languages cryptic graph" />
+          <h3 style="color: #FF0000;">Most Used Languages</h3>
+      </div>
+      <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrafo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true" height="150" alt="languages cryptic graph" />
       </div>
       <br>
       <br>
