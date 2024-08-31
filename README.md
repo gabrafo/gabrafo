@@ -23,8 +23,8 @@
      <br>
      <br>
       currently reading:<br>
-        - grokking algorithms: an illustrated guide for programmers and other curious people<br>
-        - test driven development: by example
+             - grokking algorithms: an illustrated guide for programmers and other curious people<br>
+             - test driven development: by example
     </samp>
   </p>
 </p>
