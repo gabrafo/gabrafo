@@ -6,7 +6,6 @@
     - he/him, brazilian, pt-br + english<br>
     - informational systems student<br>
     - aspirant backend developer<br>
-    - currently studying java, spring boot, authentication, messagery, automated tests, etc<br>
     - deeply interested in algorithms, data structures and indie game development<br>
     <br>
     langs:<br>
