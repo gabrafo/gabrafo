@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="https://github.com/gabrafo/gabrafo/blob/main/bat.jpeg" width="450" height="650" align="left" style="margin-right: 20px;">
+  <img src="https://github.com/gabrafo/gabrafo/blob/main/bat.jpeg" width="450" height="630" align="left" style="margin-right: 20px;">
 
   <samp>
     about me:<br>
