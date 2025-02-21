@@ -1,16 +1,25 @@
-## Hi there 👋
+<p float="left">
+  <img src="https://github.com/gabrafo/gabrafo/blob/main/bat.jpeg" width="450" height="650" align="left" style="margin-right: 20px;">
 
-<!--
-**gabrafo/gabrafo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <samp>
+    about me:<br>
+    - he/him, brazilian, pt-br + english<br>
+    - informational systems student<br>
+    - aspirant backend developer<br>
+    - deeply interested in algorithms, data structures and indie game development<br>
+    <br>
+    langs:<br>
+    > java, c/c++, kotlin, python, javascript, sql.
+    <br>
+  </samp>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrafo&locale=en&hide_title=true&layout=compact&card_width=300&langs_count=5&theme=transparent&hide_border=true" height="130" alt="languages cryptic graph" />
+  </div>
+  <br>
+  <samp>
+    tools:<br>
+    - <a href="https://obsidian.md/" target="_blank">obsidian</a> - notes taking<br> 
+    - <a href="https://learn.microsoft.com/en-us/windows/wsl/about" target="_blank">wsl2</a> - linux integration in windows<br>
+    <br>
+  </samp>
+</p>
