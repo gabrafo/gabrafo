@@ -4,13 +4,23 @@
   <samp>
     about me:<br>
     - he/him, brazilian, pt-br + english<br>
-    - informational systems student<br>
-    - aspirant backend developer<br>
-    - deeply interested in algorithms, data structures and indie game development<br>
+    - information systems student<br>
+    - aspirant backend developer and data scientist<br>
+    - deeply interested in machine learning algorithms and indie game development<br>
     <br>
     langs:<br>
-    > java, c/c++, kotlin, python, javascript, sql.
+    > java, c/c++, python, sql.
     <br>
+    backend tools:<br>
+    > spring framework, oauth2, jwt, junit5, mockito, swagger.
+    <br>
+    data science tools:<br>
+    > pytorch, tensorflow, keras.
+    <br>
+    most used learning algorithms:<br>
+    > decision trees, random forests, artificial neural networks (cnns, mlp, etc) and xgboost.
+    <br>
+    
   </samp>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrafo&locale=en&hide_title=true&layout=compact&card_width=300&langs_count=5&theme=transparent&hide_border=true" height="130" alt="languages cryptic graph" />
@@ -18,7 +28,7 @@
   <br>
   <samp>
     tools:<br>
-    - <a href="https://obsidian.md/" target="_blank">obsidian</a> - notes taking<br> 
+    - <a href="https://obsidian.md/" target="_blank">obsidian</a> and <a href="https://obsidian.md/" target="_blank">onenote</a> - notes taking<br> 
     - <a href="https://learn.microsoft.com/en-us/windows/wsl/about" target="_blank">wsl2</a> - linux integration in windows<br>
     <br>
   </samp>
