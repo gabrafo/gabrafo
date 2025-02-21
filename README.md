@@ -11,11 +11,14 @@
     langs:<br>
     > java, c/c++, python, sql.
     <br>
+    <br>
     backend tools:<br>
     > spring framework, oauth2, jwt, junit5, mockito, swagger.
     <br>
+    <br>
     data science tools:<br>
     > pytorch, tensorflow, keras.
+    <br>
     <br>
     most used learning algorithms:<br>
     > decision trees, random forests, artificial neural networks (cnns, mlp, etc) and xgboost.
