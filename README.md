@@ -13,7 +13,7 @@
     <br>
     <br>
     backend tools:<br>
-    > spring framework, oauth2, jwt, junit5, mockito, swagger.
+    > spring framework, rabbitmq, oauth2, jwt, junit5, mockito, swagger.
     <br>
     <br>
     data science tools:<br>
