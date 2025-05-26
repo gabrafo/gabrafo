@@ -9,11 +9,11 @@
     - deeply interested in machine learning algorithms and indie game development<br>
     <br>
     langs:<br>
-    > java, c/c++, python, sql.
+    > java, c/c++, python, javascript, typescript, sql.
     <br>
     <br>
     backend tools:<br>
-    > spring framework, rabbitmq, oauth2, jwt, junit5, mockito, swagger.
+    > spring framework, nestjs, nodejs, rabbitmq, oauth2, jwt, junit5, mockito, swagger.
     <br>
     <br>
     data science tools:<br>
