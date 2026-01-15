@@ -9,11 +9,11 @@
     - deeply interested in machine learning algorithms and indie game development<br>
     <br>
     langs:<br>
-    > java, c/c++, python, javascript, typescript, sql.
+    > java, c/c++, python, javascript, typescript, golang.
     <br>
     <br>
     backend tools:<br>
-    > spring framework, nestjs, nodejs, rabbitmq, oauth2, jwt, junit5, mockito, swagger.
+    > spring framework, nestjs, nodejs, gin, rabbitmq, grafana, prometheus.
     <br>
     <br>
     data science tools:<br>
@@ -28,8 +28,9 @@
   <br>
   <samp>
     tools:<br>
-    - <a href="https://obsidian.md/" target="_blank">obsidian</a> and <a href="https://obsidian.md/" target="_blank">onenote</a> - notes taking<br> 
-    - <a href="https://learn.microsoft.com/en-us/windows/wsl/about" target="_blank">wsl2</a> - linux integration in windows<br>
+    - <a href="https://obsidian.md/" target="_blank">obsidian</a> and <a href="https://rnote.flxzt.net/" target="_blank">rnote</a> - notes taking<br> 
+    - <a href="https://neovim.io/" target="_blank">neovim</a> - text editor<br>
+    - <a href="https://www.fedoraproject.org/" target="_blank">fedora</a> - os<br>
     <br>
   </samp>
 </p>
