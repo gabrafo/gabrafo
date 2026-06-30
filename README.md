@@ -10,7 +10,7 @@
     <br/><br/>
     <samp>
       experiences:<br>
-      - directed an open-source computer vision project for litter detection; main algorithms used were YOLO, ViT, JEPA, and CNNs; post-processing with TTA + WBF<br>
+      - directed an open-source computer vision project for litter detection; main algorithms were YOLO, ViT, JEPA, and CNNs; post-processing with TTA + WBF<br>
       - currently working as a machine learning engineer<br>
       - studying topic modeling for my capstone project<br>
     </samp>
