@@ -7,4 +7,11 @@
     - information systems student<br>
     - deeply interested in machine learning algorithms and indie game development<br>
   </samp>
+
+  <samp>
+    experiences:<br>
+    - directed an open-source computer vision project for litter detection; main algorithms/techniques were YOLO, ViT, JEPA, and CNNs <br>
+    - currently working as a machine learning engineer<br>
+    - studying topic modeling for my capstone project<br>
+  </samp>
 </p>
