@@ -1,8 +1,7 @@
-<p>
-  <img src="https://github.com/gabrafo/gabrafo/blob/main/bat.jpeg" width="450" height="630" style="vertical-align: middle; margin-right: 20px;">
+<div>
+  <img src="https://github.com/gabrafo/gabrafo/blob/main/bat.jpeg" width="450" height="630" align="left" style="margin-right: 20px;">
 
-  <span style="display: inline-block; vertical-align: middle;">
-    <samp>
+  <div style="margin-top: 180px;"> <samp>
       about me:<br>
       - he/him, brazilian, pt-br + english<br>
       - information systems student<br>
@@ -15,5 +14,5 @@
       - currently working as a machine learning engineer<br>
       - studying topic modeling for my capstone project<br>
     </samp>
-  </span>
-</p>
+  </div>
+</div>
